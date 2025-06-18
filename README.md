@@ -2,9 +2,9 @@
 
 A collection of powerful scripts to automate bulk actions on Twitter/X.
 
-![GitHub stars](https://img.shields.io/github/stars/helmesvs/x-twitter-hack?style=social)
-![GitHub forks](https://img.shields.io/github/forks/helmesvs/x-twitter-hack?style=social)
-![GitHub license](https://img.shields.io/github/license/helmesvs/x-twitter-hack)
+![GitHub stars](https://img.shields.io/github/stars/helmesvs/x-twitter-hacks?style=social)
+![GitHub forks](https://img.shields.io/github/forks/helmesvs/x-twitter-hacks?style=social)
+![GitHub license](https://img.shields.io/github/license/helmesvs/x-twitter-hacks)
 
 ---
 
